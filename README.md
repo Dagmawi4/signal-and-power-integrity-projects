@@ -30,8 +30,6 @@ Each project focuses on high-frequency PCB design and analysis, combining **HFSS
 ---
 
 
----
-
 ## Tools & Software Used
 - **ANSYS HFSS** for high-frequency EM modeling.
 - **Python** for signal integrity and crosstalk simulations.
