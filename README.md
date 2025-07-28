@@ -1,6 +1,6 @@
 # Signal and Power Integrity Projects
 
-This repository contains two advanced projects completed as part of coursework and research in **Signal and Power Integrity (EE 586)**.  
+This repository contains two advanced projects completed as part of coursework and research in **Signal and Power Integrity (EE 486/586 at Minnesota State University, mankato)**.  
 Each project focuses on high-frequency PCB design and analysis, combining **HFSS simulations**, **parameter extraction**, and **Python modeling**.
 
 ---
