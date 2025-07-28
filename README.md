@@ -1,13 +1,13 @@
 # Signal and Power Integrity Projects
 
-This repository contains two advanced projects completed as part of coursework and research in **Signal and Power Integrity (EE 486/586)**.  
+This repository contains two advanced projects completed as part of coursework and research in **Signal and Power Integrity (EE 586)**.  
 Each project focuses on high-frequency PCB design and analysis, combining **HFSS simulations**, **parameter extraction**, and **Python modeling**.
 
 ---
 
 ## 📂 Projects Overview
 
-### [Project 1: Metal-Ceramic-Metal Capacitor on Rogers 4003C Substrate](./Project1)
+### [Project 1: Metal-Ceramic-Metal Capacitor on Rogers 4003C Substrate](./Project%201%3A%20Metal-Ceramic-Metal%20Capacitor%20on%20Rogers%204003C%20Substrate)
 - Modeled a **metal-ceramic-metal capacitor** using **HFSS** to analyze impedance (Z-parameter) and reflection (S-parameter) across 2–15 GHz.  
 - Investigated resonant frequencies, with a key resonance at **11 GHz**.  
 - Materials: **Al₂O₃ ceramic**, **copper layers**, and **Rogers 4003C substrate**.  
@@ -18,7 +18,7 @@ Each project focuses on high-frequency PCB design and analysis, combining **HFSS
 
 ---
 
-### [Project 2: Microstrip Line Crosstalk Modeling with HFSS and Python](./Project2)
+### [Project 2: Microstrip Line Crosstalk Modeling with HFSS and Python](./Project%202%3A%20Microstrip%20Line%20Crosstalk%20Modeling%20with%20HFSS%20and%20Python)
 - Simulated **two closely spaced microstrip lines** in **HFSS** to evaluate **NEXT (Near-End Crosstalk)** and **FEXT (Far-End Crosstalk)**.  
 - Extracted **S-parameters** and implemented a **Python model** to simulate NEXT and FEXT in the time domain.  
 - Focused on understanding the relationship between PCB layout, coupling, and signal integrity.  
@@ -28,8 +28,6 @@ Each project focuses on high-frequency PCB design and analysis, combining **HFSS
   - Documentation of results and visualizations.
 
 ---
-
-## Repository Structure
 
 
 ---
@@ -43,7 +41,7 @@ Each project focuses on high-frequency PCB design and analysis, combining **HFSS
 ---
 
 ## How to Explore
-- Click on [Project1](./Project1) or [Project2](./Project2) to view the specific README, images, code, and documentation for each project.  
-- Each project folder contains **all the files needed** to reproduce or study the results.
+- Click on [Project 1](./Project%201%3A%20Metal-Ceramic-Metal%20Capacitor%20on%20Rogers%204003C%20Substrate) or [Project 2](./Project%202%3A%20Microstrip%20Line%20Crosstalk%20Modeling%20with%20HFSS%20and%20Python) to explore each project’s detailed files (images, docs, and code).
 
 ---
+
